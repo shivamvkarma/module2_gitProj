@@ -4,3 +4,8 @@ Added 2nd line from master
 
 Add New line from feature1
 
+Add 3rd line from feature1
+
+Add 4th line from feature1
+
+Add 5th line from Master
