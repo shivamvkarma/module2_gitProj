@@ -1,1 +1,2 @@
 Added test code from new branch feature1
+Added 2nd line from master
