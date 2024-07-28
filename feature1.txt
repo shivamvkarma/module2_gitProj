@@ -1,2 +1,6 @@
 Added test code from new branch feature1
+<<<<<<< HEAD
 Added 2nd line from master
+=======
+Add New line from feature1
+>>>>>>> feature1
